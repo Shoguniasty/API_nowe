@@ -1,12 +1,11 @@
 # This file is auto-generated during the composer install
 parameters:
-    database_host: 127.0.0.1
+    database_host: 23197.m.tld.pl
     database_port: null
-    database_name: comidolega_net
-    database_user: root
-    database_password: root
+    database_name:  baza23197_comidolega
+    database_user: admin23197_comidolega
+    database_password: '6IaNrjpxrz'
     mailer_transport: smtp
     mailer_host: 127.0.0.1
-    mailer_user: null
-    mailer_password: null
-    secret: 83855f4f019deab46d8a9d1e187d77061176a820
+    mailer_user: admin@admin.pl
+    mailer_password: admin

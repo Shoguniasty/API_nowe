@@ -1,0 +1,9 @@
+register_controller:
+    type:     rest
+    resource: CoMiDolegaBundle\Controller\RegisterController
+login_controller:
+    type:     rest
+    resource: CoMiDolegaBundle\Controller\LoginController
+symmptoms_controller:
+    type:     rest
+    resource: CoMiDolegaBundle\Controller\SymptomsController

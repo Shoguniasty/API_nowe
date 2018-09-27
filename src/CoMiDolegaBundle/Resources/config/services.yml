@@ -1,0 +1,4 @@
+services:
+#    co_mi_dolega.example:
+#        class: CoMiDolegaBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
